@@ -1,0 +1,4 @@
+.subhead {
+  initial-letter: 2;
+  color: &cini;
+}
